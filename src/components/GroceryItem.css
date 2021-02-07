@@ -1,0 +1,21 @@
+.grocery-item {
+}
+
+.grocery-item p {
+  width: 80%;
+  margin: 10px auto;
+  display: inline-block;
+  font-size: 20px;
+}
+
+.grocery-item .icon-container {
+  width: 10%;
+  display: inline-block;
+}
+
+.grocery-item .icon {
+}
+
+.grocery-item .icon:hover {
+  cursor: pointer;
+}

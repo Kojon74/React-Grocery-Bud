@@ -1,0 +1,56 @@
+.center-comp {
+  width: 700px;
+  min-height: 500px;
+  margin: 50px auto;
+  border-radius: 7px;
+  background-color: #fff;
+  overflow: auto;
+}
+
+.center-comp h1 {
+  width: fit-content;
+  margin: 30px auto;
+}
+
+.center-comp form {
+  width: fit-content;
+  margin: auto;
+}
+
+.center-comp input {
+  padding: 5px 10px;
+  border: none;
+  border-radius: 3px;
+  background-color: #eee;
+  font-size: 20px;
+}
+
+.center-comp button {
+  padding: 5px 10px;
+  border: none;
+  border-radius: 3px;
+  background-color: #111;
+  color: #fff;
+  font-size: 20px;
+}
+
+.center-comp .alarm {
+  width: fit-content;
+  height: 20px;
+  margin: 20px auto;
+  border-radius: 3px;
+  color: #555;
+  font-size: 15px;
+  line-height: 20px;
+}
+
+.center-comp .list-container {
+  width: 500px;
+  margin: 0 auto 20px;
+}
+
+.center-comp .clear {
+  display: block;
+  margin: 0 auto 30px;
+  background-color: red;
+}
